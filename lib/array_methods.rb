@@ -9,7 +9,7 @@
 
 def find_max_value(array)
 result = array.sort
-array.length.times do [f]
+result.length.times do [f]
 
 
 end
