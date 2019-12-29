@@ -14,6 +14,9 @@ sorted.length.times do |i|
  return sorted[-1]
 end
 end
+
+
+
 def find_min_value(array)
   
 end
