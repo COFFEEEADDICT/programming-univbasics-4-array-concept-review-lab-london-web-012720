@@ -10,8 +10,8 @@
 def find_max_value(array)
 result = array.sort
 result.length.times do [f]
-
-
+return f - 1
+end
 end
 
 def find_min_value(array)
