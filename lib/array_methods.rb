@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-array.length.times do [f]
+array.length.times do |f|
 if array[f] == value_to_find
 puts [value_to_find]
 elsif 
