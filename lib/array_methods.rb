@@ -18,5 +18,11 @@ end
 
 
 def find_min_value(array)
-  
+
+sorted = array.sort
+puts sorted
+sorted.length.times do |i| 
+ return sorted[0]
+end
+end
 end
